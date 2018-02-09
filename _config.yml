@@ -9,7 +9,7 @@ name: Duling Lai
 description: Mobile Application / Machine Learning / Finance Enthusiast
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/dulinglai/dulinglai.github.io/images/profilepic.jpg
+avatar: {{ "/images/profilepic.jpg" | absolute_url }}
 
 #
 # Flags below are optional
