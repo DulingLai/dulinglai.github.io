@@ -3,7 +3,7 @@ layout: post
 title: Install Multiple Java Versions on macOS High Sierra
 ---
 
-# Install Multiple Java Versions on macOS High Sierra
+This post aims to provide information on how to easily install and maintain multiple java versions on macOS High Sierra.
 
 ## Install Homebrew Cask
 
