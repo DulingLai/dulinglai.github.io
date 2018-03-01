@@ -1,3 +1,8 @@
+---
+layout: post
+title: Install Multiple Java Versions on macOS High Sierra
+---
+
 # Install Multiple Java Versions on macOS High Sierra
 
 ## Install Homebrew Cask
