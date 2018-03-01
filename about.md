@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm an M.A.Sc student by profession, a programmer by passion, and a finance enthusiast by obsession!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am an M.A.Sc. student in the department of Electrical and Computer Engineering at The University of British Columbia. I am a team member of the ReSeSS research group, and my supervisor is Dr. Julia Rubin. My research is mainly focused on energy efficiency and privacy of mobile applications.
+
+I received my B.A.Sc degree from Simon Fraser University, majoring in Electronic Engineering with a Business Administration minor. I am also interested in Economics and Portfolio Management.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[laiduling@gmail.com](mailto:laiduling@gmail.com)
